@@ -7,10 +7,10 @@
 <h3 align="center">Computer Science & ORIE Student | Backend Developer | Machine Learning Enthusiast</h3>
 
 <p align="center">
-    <a href="https://linkedin.com/in/lawrence-granda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lawrence-granda" height="30" width="40"/></a>
-    <a href="https://github.com/lawrencegranda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="lawrencegranda" height="30" width="40" /></a>
-    <a href="https://www.instagram.com/lawrence_granda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lawrencegranda" height="30" width="40" /></a>
-    <a href="mailto:lg626@cornell.edu"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="lg626@cornell.edu" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/lawrence-granda" target="blank"><img align="center" src="svgs/linkedin.svg" alt="lawrence-granda" height="30" width="40"/></a>
+    <a href="https://github.com/lawrencegranda" target="blank"><img align="center" src="svgs/github.svg" alt="lawrencegranda" height="30" width="40" /></a>
+    <a href="https://www.instagram.com/lawrence_granda" target="blank"><img align="center" src="svgs/instagram.svg" alt="lawrencegranda" height="30" width="40" /></a>
+    <a href="mailto:lg626@cornell.edu"><img align="center" src="svgs/gmail.svg" alt="lg626@cornell.edu" height="30" width="40" /></a>
 </p>
 
 <p align="center">
