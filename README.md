@@ -85,15 +85,15 @@
 
 <p align="center">
     <!--- stats (start) -->
-    <table align="center">
-        <tr border="none">
-            <td width="50%" align="center">
-                <img align="center" src="https://github-readme-stats.vercel.app/api?username=lawrencegranda&count_private=true&bg_color=100f0f&text_color=4c569e&title_color=634c9e&icon_color=634c9e&hide_border=true&show_icons=true&locale=en&layout=compact" />
-            </td>
-            <td width="50%" align="center">
-                    <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lawrencegranda&theme=buefy-dark&count_private=true&background=100f0f&text_color=4c569e&stroke=634c9e&ring=634c9e&hide_border=true&show_icons=true&locale=en&layout=compact" />
-            </td>
-        </tr>
+    <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td align="center" width="50%">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=lawrencegranda&count_private=true&bg_color=100f0f&text_color=4c569e&title_color=634c9e&icon_color=634c9e&hide_border=true&show_icons=true&locale=en&layout=compact" />
+        </td>
+        <td align="center" width="50%">
+          <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lawrencegranda&theme=buefy-dark&count_private=true&background=100f0f&text_color=4c569e&stroke=634c9e&ring=634c9e&hide_border=true&show_icons=true&locale=en&layout=compact" />
+        </td>
+      </tr>
     </table>
     <!--- stats (end) -->
     <!--- trophy (start) -->
