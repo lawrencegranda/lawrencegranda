@@ -47,8 +47,6 @@
   - 🇪🇸 Spanish
   - 🇬🇧 English
   - <img src="https://cdn3.emoji.gg/emojis/9748-flag-esga.png" width="13px" height="13px" alt="flag_esga"> Galician
-  - 🇨🇳 Mandarin
-  - 🇫🇷 French
 
   And learning more:
 
