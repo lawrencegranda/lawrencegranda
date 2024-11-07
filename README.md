@@ -32,7 +32,7 @@
 **_Talking About Personal Stuff..._**
 
 - 🌱 Currently learning **Analysis of Algorithms**, **Mathematical Optimization**, and **Statistics**.
-- 💼 CTO & Full-Stack Engineer at a Stealth Start-Up (education and tech industries).
+- 💼 CTO & Full-Stack Engineer at a Stealth Start-Up (education and tech industries) - [ilummu.com](https://ilummu.com/).
 - 👨‍🏫 Teaching Assistant for **CS3110 Functional Programming** at Cornell University.
 - 🤖 Passionate about applying **AI** to real-world problems, from optimizing store layouts to detecting crop diseases.
 - 💬 Ask me about **Functional Programming**, **Backend Development**, or **Machine Learning**.
