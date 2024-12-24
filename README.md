@@ -30,7 +30,7 @@
 ### 🚀 **About Me:**
 
 **_Talking About Personal Stuff..._**
-
+- 🖥️ Incoming 2025 Summer Intern at **Meta**.
 - 🌱 Currently learning **Analysis of Algorithms**, **Mathematical Optimization**, and **Statistics**.
 - 💼 CTO & Full-Stack Engineer at a Stealth Start-Up (education and tech industries) - [ilummu.com](https://ilummu.com/).
 - 👨‍🏫 Teaching Assistant for **CS3110 Functional Programming** at Cornell University.
